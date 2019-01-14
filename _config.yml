@@ -14,12 +14,12 @@ author: Fábio Madeira
 # jekyller.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /vitae/
-title: Alma Eguizabal's Resume
-name: Alma Eguizabal
-email: alma.eguizabal@ieee.org
-email_full: mailto:alma.eguizabal@ieee.org
-website: almaegui.github.io/
-website_full: https://almaegui.github.io/
+title: Christian Lameiro's Resume
+name: Christian Lameiro
+email: christian.lameiro@gmail.com
+email_full: mailto:christian.lameiro@gmail.com
+website: clameiro.github.io/
+website_full: https://clameiro.github.io/
 github: trending
 twitter: twitter
 tel: +49 5251 60-3181
